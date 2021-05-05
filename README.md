@@ -1,3 +1,1 @@
-# putsbam.github.io
-
-- coming soon :)
+# coming soon :)
