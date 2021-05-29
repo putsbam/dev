@@ -1,4 +1,3 @@
 # coming soon :)
 
-
-![alt text](20200210_165621.jpg  "bby yumi :)")
+<img src="20200210_165621.jpg" alt="bby yumi :)" width="200"/>
